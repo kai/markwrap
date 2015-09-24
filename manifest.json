@@ -19,8 +19,8 @@
   "commands": {
     "toggle-feature-foo": {
       "suggested_key": {
-        "default": "Ctrl+Shift+V",
-        "mac": "Command+Shift+V"
+        "default": "Ctrl+k",
+        "mac": "Command+k"
       },
       "description": "Toggle feature foo"
     }
